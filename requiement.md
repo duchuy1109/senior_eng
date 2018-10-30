@@ -4,7 +4,6 @@ https://itviec.com/it-jobs/embedded-software-engineer-c-linux-olli-0243
 - 3+ years of experience in developing software for embedded systems.
 - 2+ years of experience in embedded Linux development.
 - 2+ years of experience in C, C++, C# development.
-
 #Preferred qualifications:
 - Experience in building production systems in RTOS environment.
 - Audio DSP in embedded systems: noise reduction, echo cancellation, beam forming, sound source localization.
@@ -12,7 +11,7 @@ https://itviec.com/it-jobs/embedded-software-engineer-c-linux-olli-0243
 - Strong data analysis and debugging skills.
 - Experience in development of mesh or WiFi-based home automation systems.
 - Experience working with networking or communications devices in an embedded environment.
-
+---
 https://itviec.com/it-jobs/embedded-software-in-japan-upto-5000-nataes-5611
 - Bắt buộc giao tiếp được tiếng Anh trong công việc. Đọc và viết tiếng Anh tốt
 - Có kinh nghiệm lập trình ngôn ngữ C/C++ tối thiểu 06 tháng hoặc có kết quả học tập cao
@@ -24,3 +23,14 @@ https://itviec.com/it-jobs/embedded-software-in-japan-upto-5000-nataes-5611
 - Địa điểm: làm việc tại Nhật Bản
 - Ứng viên tại các khu vực ngoài Hà Nội sẽ phỏng vấn qua Skype
 - CV Tiếng Anh
+---
+https://itviec.com/nha-tuyen-dung/marvell-viet-nam
+Yêu Cầu Công Việc
+• At least 3 years of proven experience in Embedded systems development
+• Experience with Board Support Package (BSP) and Device Drivers development for Linux 
+• Excellent understanding of processors architectures and SW-HW interfaces
+• Fluency in C, knowledge of Python an advantage
+• Previous experience with Secure Boot flows – advantage
+• Experience with ARM Trusted FW, U-boot, UEFI bootloaders for ARM CPUs – advantage
+• Excellent engineering skills: problem solving, pragmatic approach, broad system view
+• BSc. / MSc. in Computer Science / Electronics Engineering or equivalent
