@@ -8,11 +8,13 @@
                       English          (TOEIC 780)
                       
 #Abilities
-•	Basic web design using html, css, and javascript.
-•	Basic knowledge in programming using C, C++ and Java.
-•	Interesting and ability in programming embedded systems using Assembly and C language.
-•	Basic skills in Photoshop, Corel Draw.
-•	Experiments in Arduino board, MSP430 Development board.
+- Operation System: Windows, Linux (Prefered)
+- compiler: gcc 
+- Editor: notepad++, VS code (prefered), Vim, 
+- Diff tools: gitdiff, meld, kdiff3 (prefered)
+- Program language: C (prefered), C++, Python (prefered), Bash
+- IDE: MULTI IDE (https://www.ghs.com/products/MULTI_IDE.html)
+- Soft-skill with educated certification: (TDB)
 
 #Working Experience
 March 2015 - November 2018
@@ -31,15 +33,17 @@ Responsibilities and Achievements:
   + Unixbench
   + Pmbw
   + Drythstone
-  
-# Performance Measurement/Benchmark Performance/Performance evaluation
+
+## Performance Measurement/Benchmark Performance/Performance evaluation
+- 
+
 ## Driver Development/Maintenance:
 - Develop Audio modules driver for Rcar Gen3, used on multiple board (H3/M3/M3N/D3/E3)
 - Update, add functions to Audio driver base on customer requirement.
 
 ## Automation Test System design
 - Develop an in-house automation test system for INTEGRITY OS base on python and Jenkins
-- 
+- System can auto integrate source code -> Build -> Download to Evaluation Board -> Run -> Input parameter -> Capture logs, result -> Sent result to difined emails.
 
 ## Static code analysis 
 - Create test program to check code coverage (CO/C1) for product code using Cantata tool (https://www.qa-systems.com/tools/cantata/code-coverage/)
@@ -52,3 +56,8 @@ Responsibilities and Achievements:
 #Education
 2008-2014
 Bachelor of Engineering, Major in Computer Engineering Can Tho University
+
+#Hobbiles
+- Update information about new technology in Windows, Linux, Android
+- Reading.
+- Camping, Trekking, Moutain Climbing (Into Nature Activity)
