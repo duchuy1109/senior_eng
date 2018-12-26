@@ -8,7 +8,7 @@
                       English          (TOEIC 780)
                       
 #Summary
-- Have 4 years experiment in Embbemded C in Automotive Field.
+- Have 4 years experiment in Embbemded C in Automotive field.
 - Falimiar with OOP programming (C++)
 - Abiliti to automate testing with script language (bash, python)
 - Worked in V model development process.
@@ -43,7 +43,10 @@ Responsibilities and Achievements:
   + Dhrystone (C language, Computing Benchmark)
 
 ## Performance Measurement/Benchmark Performance/Performance evaluation
-- 
+- Run benchmark tools (same list as above) for Perfomrace evaluation report 
+- Compare with result on other flatform (Linux .vs INTEGRITY OS) 
+  and with result of previous version of same flatform (INTEGRITY OS, Linux OS)
+- Analyze the result to get the conclusion (Better performance, same ...)
 
 ## Driver Development/Maintenance:
 - Develop Audio modules driver for Rcar Gen3, used on multiple board (H3/M3/M3N/D3/E3)
