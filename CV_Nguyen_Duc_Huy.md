@@ -7,14 +7,22 @@
 *Languages:* Vietnamese (Native), 
                       English          (TOEIC 780)
                       
+#Summary
+- Have 4 years experiment in Embbemded C in Automotive Field.
+- Falimiar with OOP programming (C++)
+- Abiliti to automate testing with script language (bash, python)
+- Worked in V model development process.
+- 
+
 #Abilities
 - Operation System: Windows, Linux (Prefered)
-- compiler: gcc 
-- Editor: notepad++, VS code (prefered), Vim, 
+- compiler: gcc , gbuild (GreenHill Compiler)
+- Editor: notepad++, VS code (prefered), Vim
 - Diff tools: gitdiff, meld, kdiff3 (prefered)
 - Program language: C (prefered), C++, Python (prefered), Bash
 - IDE: MULTI IDE (https://www.ghs.com/products/MULTI_IDE.html)
-- Soft-skill with educated certification: (TDB)
+- Soft-skill with educated certification: Planning Skill, Peer Review Skill.
+- Project Leader of small group (5 members)
 
 #Working Experience
 March 2015 - November 2018
@@ -27,12 +35,12 @@ Responsibilities and Achievements:
 - Porting from Linux Env to INTEGRITY env  (https://www.ghs.com/products/rtos/integrity.html)
 - Maintaince/Upgrade source code when INTEGITY OS update.
 - List of benchmark tools:
-  + Lmbench
-  + Iperf
-  + Cachebench
-  + Unixbench
-  + Pmbw
-  + Drythstone
+  + Lmbench (C language, System performace )
+  + Iperf3 (C language, A TCP, UDP, and SCTP network bandwidth measurement tool)
+  + Cachebench (C language, Memory benchmark)
+  + Unixbench (C language, System Performance )
+  + Pmbw (C++ language, Parallel Memory Bandwidth Measurement)
+  + Dhrystone (C language, Computing Benchmark)
 
 ## Performance Measurement/Benchmark Performance/Performance evaluation
 - 
